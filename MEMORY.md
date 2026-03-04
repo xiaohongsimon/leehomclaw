@@ -44,6 +44,10 @@
 - **完成：** 创建 OpenClaw 文件夹
 - **完成：** 创建 TODOS.md、MISTAKES.md、CAPABILITIES.md
 - **完成：** 迁移记忆文件到 Obsidian vault
+- **完成：** GitHub Token 配置 + leehomclaw 仓库初始化
+- **完成：** Claude Code 部署确认
+- **重要决策：** 心跳机制改为夜间模式（01:00-07:00），白天被动响应
+- **新想法：** 记忆可视化项目（夜间时间开发demo）
 
 ---
 
