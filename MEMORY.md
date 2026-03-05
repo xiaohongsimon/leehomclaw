@@ -22,7 +22,7 @@
 
 ## LH 的上下文
 
-- 40 人算法团队负责人，2000 张 PPUe 卡
+- 算法TL，有人，有卡
 - 公司数据安全要求高，我无法直接访问工作代码/数据
 - 专用硬件：512G 统一内存 Mac Studio
 - API 配置：百炼 Coding Plan Pro（45000 次/月），可用模型 glm5/qwen3.5-plus/kimi2.5/minimax2.5

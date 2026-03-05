@@ -1,0 +1,18 @@
+{
+  "session_id": "nightowl-2026-03-05",
+  "started_at": "2026-03-05T23:40:00+08:00",
+  "current_round": 2,
+  "total_rounds": 6,
+  "round_interval_min": 30,
+  "status": "round_2_complete",
+  "queue": [
+    {"topic": "AI Agent 架构与前沿", "status": "complete"},
+    {"topic": "MCP 生态与工具链", "status": "complete"},
+    {"topic": "Hacker News 热门项目", "status": "pending"},
+    {"topic": "GitHub Trending AI", "status": "pending"},
+    {"topic": "Agent Memory 方案", "status": "pending"},
+    {"topic": "自主探索发现", "status": "pending"}
+  ],
+  "user_seeds": [],
+  "last_updated": "2026-03-06T00:20:00+08:00"
+}
