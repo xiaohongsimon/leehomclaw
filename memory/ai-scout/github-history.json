@@ -1,0 +1,106 @@
+{
+  "date": "2026-03-05",
+  "source": "github",
+  "items": [
+    {
+      "name": "KeygraphHQ/shannon",
+      "url": "https://github.com/KeygraphHQ/shannon",
+      "stars": 31223,
+      "starsToday": 1854,
+      "language": "TypeScript",
+      "description": "Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.",
+      "priority": "🔥🔥🔥",
+      "tags": ["🆕", "🐦", "agent", "security", "automation"],
+      "socialMentions": true
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "stars": 5977,
+      "starsToday": 2209,
+      "language": null,
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "priority": "🔥🔥🔥",
+      "tags": ["🆕", "agent", "claude-code", "workflow"],
+      "socialMentions": false
+    },
+    {
+      "name": "alibaba/OpenSandbox",
+      "url": "https://github.com/alibaba/OpenSandbox",
+      "stars": 6236,
+      "starsToday": 788,
+      "language": "Python",
+      "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
+      "priority": "🔥🔥",
+      "tags": ["🆕", "agent", "sandbox", "coding-agent"],
+      "socialMentions": false
+    },
+    {
+      "name": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "stars": 26036,
+      "starsToday": 1454,
+      "language": "TypeScript",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds. Capable of realtime voice chat, Minecraft, Factorio playing.",
+      "priority": "🔥🔥",
+      "tags": ["🆕", "agent", "voice", "gaming"],
+      "socialMentions": false
+    },
+    {
+      "name": "ItzCrazyKns/Perplexica",
+      "url": "https://github.com/ItzCrazyKns/Perplexica",
+      "stars": 31104,
+      "starsToday": 1090,
+      "language": "TypeScript",
+      "description": "Perplexica is an AI-powered answering engine.",
+      "priority": "🔥",
+      "tags": ["📈", "llm", "search"],
+      "socialMentions": false
+    },
+    {
+      "name": "FlowiseAI/Flowise",
+      "url": "https://github.com/FlowiseAI/Flowise",
+      "stars": 50330,
+      "starsToday": 145,
+      "language": "TypeScript",
+      "description": "Build AI Agents, Visually",
+      "priority": "📝",
+      "tags": ["📈", "agent", "workflow", "low-code"],
+      "socialMentions": false
+    },
+    {
+      "name": "CodebuffAI/codebuff",
+      "url": "https://github.com/CodebuffAI/codebuff",
+      "stars": 3684,
+      "starsToday": 337,
+      "language": "TypeScript",
+      "description": "Generate code from the terminal!",
+      "priority": "📝",
+      "tags": ["🆕", "coding-agent", "terminal"],
+      "socialMentions": false
+    },
+    {
+      "name": "K-Dense-AI/claude-scientific-skills",
+      "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
+      "stars": null,
+      "starsToday": null,
+      "language": null,
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "priority": "📝",
+      "tags": ["🆕", "claude", "skills"],
+      "socialMentions": false
+    }
+  ],
+  "hotNew": [
+    "KeygraphHQ/shannon",
+    "msitarzewski/agency-agents",
+    "alibaba/OpenSandbox",
+    "moeru-ai/airi"
+  ],
+  "metadata": {
+    "source": "github",
+    "count": 8,
+    "fetchedAt": "2026-03-05T09:34:00Z",
+    "url": "https://github.com/trending?since=daily"
+  }
+}

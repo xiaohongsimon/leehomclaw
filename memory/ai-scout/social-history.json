@@ -1,0 +1,255 @@
+{
+  "lastUpdated": "2026-03-05T18:10:00+08:00",
+  "scoutDate": "2026-03-05",
+  "platforms": {
+    "x": {
+      "status": "success",
+      "topics": [
+        {
+          "title": "LLM Agents Follow Physical Laws - Detailed Balance Discovery",
+          "author": "@super__protocol",
+          "url": "https://x.com/super__protocol/status/2004242099814691307",
+          "summary": "北京大学研究发现 LLM 驱动的智能体遵循"细致平衡"物理原理，状态转换可预测",
+          "engagement": "high",
+          "value": "⭐⭐⭐⭐",
+          "topic": "AI Agent Theory"
+        },
+        {
+          "title": "MemEvolve - AI Agent Memory Evolution Framework",
+          "author": "@rohanpaul_ai",
+          "url": "https://x.com/rohanpaul_ai/status/2004411096837607474",
+          "summary": "MemEvolve 通过进化记忆设置提升 AI 代理性能，测试中提升高达 17.06%",
+          "engagement": "high",
+          "value": "⭐⭐⭐⭐",
+          "topic": "AI Agent Memory"
+        },
+        {
+          "title": "LoCoBench-Agent - Long Context Agent Benchmark",
+          "author": "@SFResearch (Salesforce AI Research)",
+          "url": "https://x.com/SFResearch/status/1991170384838693168",
+          "summary": "Salesforce 发布 LoCoBench-Agent：8000 个交互式代理场景，上下文长度 10K-1M tokens",
+          "engagement": "high",
+          "value": "⭐⭐⭐⭐⭐",
+          "topic": "AI Agent Benchmark"
+        },
+        {
+          "title": "Karpathy: LLM Agent Coding Phase Shift",
+          "author": "@karpathy",
+          "url": "https://x.com/karpathy/status/2015883857489522876",
+          "summary": "Karpathy: 从 2025 年 12 月开始，LLM 代理编码能力跨越阈值，从 80% 手动编码转变为 80% 代理编码",
+          "engagement": "very_high",
+          "value": "⭐⭐⭐⭐⭐",
+          "topic": "AI Coding Agent"
+        },
+        {
+          "title": "Tiered Memory System for AI Coding Agents",
+          "author": "@rohanpaul_ai",
+          "url": "https://x.com/rohanpaul_ai/status/2028689573971120396",
+          "summary": "新论文提出三层记忆系统解决 AI 编码代理长期记忆问题：主规则书 + 专家机器人 + 背景文档库",
+          "engagement": "high",
+          "value": "⭐⭐⭐⭐",
+          "topic": "AI Agent Memory"
+        },
+        {
+          "title": "DeepCode: AI Agents Can't Replicate Research Papers",
+          "author": "@omarsar0",
+          "url": "https://x.com/omarsar0/status/2000385348413850055",
+          "summary": "最佳 LLM 代理在科学论文复现上仅 42% 成功率，人类 PhD 专家达 72%，问题不在模型能力",
+          "engagement": "high",
+          "value": "⭐⭐⭐⭐",
+          "topic": "AI Agent Limitations"
+        },
+        {
+          "title": "Agent Trading Competition - 6 LLM Agents as Traders",
+          "author": "@KPJang2",
+          "url": "https://x.com/KPJang2/status/1980198132312101339",
+          "summary": "NOF1 交易平台举办 LLM 代理交易竞赛，6 个 AI 代理作为交易员 competing",
+          "engagement": "medium",
+          "value": "⭐⭐⭐",
+          "topic": "AI Agent Application"
+        }
+      ]
+    },
+    "youtube": {
+      "status": "success",
+      "videos": [
+        {
+          "title": "AI News February 2026: Every Major Model Drop, Funding Round & Government Standoff",
+          "url": "https://www.youtube.com/watch?v=va6VkUr94Q8",
+          "published": "5 days ago",
+          "type": "news",
+          "topic": "AI News Roundup",
+          "views": "high",
+          "value": "⭐⭐⭐⭐"
+        },
+        {
+          "title": "The Easiest Way To Build AI Agents For Beginners (So Easy)",
+          "url": "https://www.youtube.com/watch?v=6hPvtbEDMrw",
+          "published": "6 days ago",
+          "type": "tutorial",
+          "topic": "AI Agent Development",
+          "views": "high",
+          "value": "⭐⭐⭐"
+        },
+        {
+          "title": "n8n Tutorial for 2026: How To Build AI Agents for FREE (step by step)",
+          "url": "https://www.youtube.com/watch?v=Pqp4qJ5sS5g",
+          "published": "January 6, 2026",
+          "type": "tutorial",
+          "topic": "n8n / No-Code Agent",
+          "views": "medium",
+          "value": "⭐⭐⭐"
+        },
+        {
+          "title": "How I Built The PERFECT AI Agent In 1 Week (And Why I CANT Release It)",
+          "url": "https://www.youtube.com/watch?v=_h2EnRfxMQE",
+          "published": "2 weeks ago",
+          "type": "tutorial",
+          "topic": "Anthropic Agent SDK",
+          "views": "high",
+          "value": "⭐⭐⭐⭐"
+        },
+        {
+          "title": "18 Shocking AI Predictions For 2026 That Break The Internet",
+          "url": "https://www.youtube.com/watch?v=4aVXJMXCLWk",
+          "published": "December 27, 2025",
+          "type": "analysis",
+          "topic": "AI Trends 2026",
+          "views": "high",
+          "value": "⭐⭐⭐"
+        },
+        {
+          "title": "Google DeepMind CEO on state of the AI race, push towards AGI",
+          "url": "https://www.youtube.com/watch?v=uVPdYqiULTo",
+          "published": "January 23, 2026",
+          "type": "interview",
+          "topic": "DeepMind / AGI",
+          "views": "high",
+          "value": "⭐⭐⭐⭐"
+        }
+      ]
+    },
+    "web": {
+      "status": "success",
+      "news": [
+        {
+          "title": "Top 7 Agentic AI Frameworks in 2026: LangChain, CrewAI, and Beyond",
+          "source": "AlphaMatch AI",
+          "published": "recent",
+          "topic": "AI Agent Frameworks",
+          "significance": "high"
+        },
+        {
+          "title": "CrewAI vs LangGraph vs AutoGen vs OpenAgents (2026)",
+          "source": "OpenAgents Blog",
+          "published": "3 days ago",
+          "topic": "AI Agent Frameworks Comparison",
+          "significance": "high"
+        },
+        {
+          "title": "AI Agent Frameworks Complete Guide 2026: LangGraph vs AutoGen vs CrewAI",
+          "source": "Calmops",
+          "published": "3 days ago",
+          "topic": "AI Agent Frameworks",
+          "significance": "high"
+        },
+        {
+          "title": "MIT CSAIL AI Agent Index 2025: 87% of agents lack safety cards",
+          "source": "GitHub Gist",
+          "published": "February 20, 2026",
+          "topic": "AI Agent Safety",
+          "significance": "high"
+        }
+      ]
+    }
+  },
+  "hotTopics": [
+    {
+      "topic": "AI Agent / Agentic Workflow",
+      "heat": "🔥🔥🔥",
+      "trend": "📈 持续爆发",
+      "summary": "2026 年 AI Agent 进入成熟期，Karpathy 确认 2025 年 12 月为代理编码能力拐点，企业级框架 (LangGraph/CrewAI/AutoGen) 竞争激烈",
+      "sources": ["X/Twitter", "YouTube", "Web News", "GitHub"],
+      "github": true,
+      "crossValidation": "多个 GitHub 项目验证 (Awesome-AI-Agents, 500-AI-Agents-Projects)"
+    },
+    {
+      "topic": "AI Agent Memory Systems",
+      "heat": "🔥🔥",
+      "trend": "🆕 研究热点",
+      "summary": "MemEvolve 和分层记忆系统论文发布，解决 AI 代理长期记忆问题，性能提升 17%+",
+      "sources": ["X/Twitter"],
+      "github": true,
+      "crossValidation": "Awesome-Agentic-Reasoning 论文集合"
+    },
+    {
+      "topic": "AI Agent Benchmarking (LoCoBench)",
+      "heat": "🔥🔥",
+      "trend": "🆕 新发布",
+      "summary": "Salesforce 发布 LoCoBench-Agent：8000 个场景、10K-1M tokens 上下文、10 种编程语言评估基准",
+      "sources": ["X/Twitter"],
+      "github": true,
+      "crossValidation": "GitHub 项目已开源"
+    },
+    {
+      "topic": "AI Agent Physical Laws Discovery",
+      "heat": "🔥🔥",
+      "trend": "🆕 理论突破",
+      "summary": "北京大学发现 LLM 代理遵循"细致平衡"物理原理，首次发现不依赖模型细节的宏观物理定律",
+      "sources": ["X/Twitter"],
+      "github": false,
+      "crossValidation": "多篇论文讨论"
+    },
+    {
+      "topic": "AI Agent Safety & Governance",
+      "heat": "🔥",
+      "trend": "📈 上升",
+      "summary": "MIT CSAIL 研究显示 87% 的 AI 代理缺乏安全文档，2026 年企业部署需 90 天合规路线图",
+      "sources": ["GitHub", "Web News"],
+      "github": true,
+      "crossValidation": "MIT CSAIL AI Agent Index 2025"
+    },
+    {
+      "topic": "AI Coding Agent Phase Shift",
+      "heat": "🔥🔥🔥",
+      "trend": "📈 已跨越阈值",
+      "summary": "Karpathy 确认 LLM 代理编码能力在 2025 年 12 月跨越阈值，开发者工作流从 80% 手动转变为 80% 代理",
+      "sources": ["X/Twitter"],
+      "github": true,
+      "crossValidation": "antigravity-awesome-skills (900+ 代理技能)"
+    },
+    {
+      "topic": "AI Agent Frameworks War 2026",
+      "heat": "🔥🔥",
+      "trend": "📈 激烈竞争",
+      "summary": "LangGraph (生产级)、CrewAI (快速上手)、AutoGen (多代理对话) 三足鼎立，各有适用场景",
+      "sources": ["Web News", "YouTube"],
+      "github": true,
+      "crossValidation": "多个对比文章和项目"
+    }
+  ],
+  "insights": [
+    "🎯 **AI Agent 拐点已至**: Karpathy 确认 2025 年 12 月为 LLM 代理编码能力拐点，开发者工作流发生根本性转变",
+    "🧠 **记忆系统是关键瓶颈**: 多篇论文聚焦 AI 代理长期记忆问题，MemEvolve 和分层记忆系统显示 17%+ 性能提升",
+    "📊 **基准测试成熟化**: Salesforce LoCoBench 提供 8000 个场景、百万级 tokens 上下文评估，标志行业进入成熟期",
+    "⚖️ **理论基础突破**: 北京大学发现 LLM 代理遵循物理定律，为 AI 代理研究提供新的理论框架",
+    "🛡️ **安全问题凸显**: MIT 研究显示 87% 代理缺乏安全文档，2026 年企业部署需重视合规",
+    "🏗️ **框架格局清晰**: LangGraph (生产级)、CrewAI (易用性)、AutoGen (多代理) 形成差异化竞争",
+    "💼 **应用场景扩展**: 从编码到交易 (Agent Trading Competition)，AI 代理应用边界持续扩大"
+  ],
+  "metadata": {
+    "totalSourcesScanned": 3,
+    "totalItemsFound": 17,
+    "highQualityItems": 11,
+    "crossValidatedWithGitHub": 6,
+    "excludedKeywords": ["sale", "crypto", "nft", "giveaway", "sponsor"],
+    "searchQueries": [
+      "site:x.com (AI OR LLM OR agent) (breaking OR trending) last week",
+      "site:x.com from:karpathy OR from:sama OR from:ylecun AI",
+      "site:youtube.com AI agent tutorial last week",
+      "site:youtube.com AI breaking news 2026",
+      "AI Agent framework 2026 LangChain CrewAI AutoGen",
+      "site:github.com AI Agent trending 2026"
+    ]
+  }
+}
