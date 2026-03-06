@@ -1,0 +1,16 @@
+{
+  "name": "memory-viz",
+  "version": "0.1.0",
+  "description": "AI Agent Memory Visualization Demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "marked": "^12.0.0"
+  },
+  "author": "枢 (Shū) - OpenClaw",
+  "license": "MIT"
+}
