@@ -1,0 +1,28 @@
+{
+  "task_id": "task-003",
+  "name": "OpenClaw 社区动态检查",
+  "agent": "scout-community",
+  "status": "completed",
+  "started_at": "2026-03-06T06:20:00Z",
+  "completed_at": "2026-03-06T06:25:00Z",
+  "method": "web_search",
+  "confidence": "60%",
+  "findings": {
+    "openclaw_updates": [
+      {
+        "topic": "Claude MCP (Model Context Protocol)",
+        "description": "Anthropic's open standard for connecting AI assistants to systems",
+        "priority": "high",
+        "tags": ["mcp", "protocol", "anthropic"]
+      }
+    ],
+    "related_technologies": [
+      {
+        "name": "Model Context Protocol",
+        "description": "Open standard for connecting AI to data sources",
+        "priority": "high"
+      }
+    ]
+  },
+  "notes": "WebSearch 搜索 OpenClaw 相关信息，置信度中等"
+}

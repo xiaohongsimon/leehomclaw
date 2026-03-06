@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "agents": {
+    "scout-github": {
+      "role": "scout",
+      "description": "GitHub AI 趋势侦察",
+      "skill": "ai-scout-github",
+      "model": "haiku",
+      "estimated_duration_minutes": 15,
+      "capabilities": ["web-search", "github-api", "browser"],
+      "output_template": "memory/ai-scout/github-{date}.json",
+      "depends_on": []
+    },
+    "scout-social": {
+      "role": "scout",
+      "description": "社交媒体 AI 热点侦察",
+      "skill": "ai-scout-social",
+      "model": "haiku",
+      "estimated_duration_minutes": 15,
+      "capabilities": ["web-search", "browser"],
+      "output_template": "memory/ai-scout/social-{date}.json",
+      "depends_on": []
+    },
+    "scout-community": {
+      "role": "scout",
+      "description": "OpenClaw 社区动态检查",
+      "skill": "ai-scout-community",
+      "model": "haiku",
+      "estimated_duration_minutes": 10,
+      "capabilities": ["web-search", "github-api"],
+      "output_template": "memory/ai-scout/community-{date}.json",
+      "depends_on": []
+    },
+    "analyst": {
+      "role": "analyst",
+      "description": "趋势分析和洞察提取",
+      "skill": "ai-analyst",
+      "model": "sonnet",
+      "estimated_duration_minutes": 10,
+      "capabilities": ["synthesize", "analyze"],
+      "output_template": "memory/ai-scout/analysis-{date}.json",
+      "depends_on": ["scout-github", "scout-social", "scout-community"]
+    },
+    "writer": {
+      "role": "writer",
+      "description": "整合报告生成",
+      "skill": "ai-scout-report",
+      "model": "sonnet",
+      "estimated_duration_minutes": 10,
+      "capabilities": ["write", "format"],
+      "output_template": "memory/ai-scout/reports/{date}.md",
+      "depends_on": ["analyst"]
+    }
+  },
+  "roles": {
+    "scout": {
+      "description": "信息收集者，负责从各渠道获取原始数据",
+      "characteristics": ["快速", "广泛", "结构化输出"]
+    },
+    "analyst": {
+      "description": "分析者，负责从原始数据中提取洞察",
+      "characteristics": ["深度思考", "交叉验证", "模式识别"]
+    },
+    "writer": {
+      "description": "写作者，负责生成最终报告",
+      "characteristics": ["清晰表达", "结构化输出", "可读性"]
+    }
+  }
+}

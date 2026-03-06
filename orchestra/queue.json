@@ -1,0 +1,105 @@
+{
+  "run_id": "run-20260306-1410",
+  "created_at": "2026-03-06T06:10:04Z",
+  "description": "AI Agent 技术侦察 - 试运行",
+  "max_tasks_per_segment": 2,
+  "tasks": [
+    {
+      "id": "task-001",
+      "name": "GitHub AI Agent 项目侦察",
+      "agent": "scout-github",
+      "skill": "ai-scout-github",
+      "status": "completed",
+      "priority": 1,
+      "depends_on": [],
+      "created_at": "2026-03-06T06:10:04Z",
+      "started_at": "2026-03-06T06:11:50.274027Z",
+      "completed_at": "2026-03-06T06:14:59.833006Z",
+      "retries": 0,
+      "max_retries": 2,
+      "params": {
+        "focus": "multi-agent, agent-framework, agentic-ai"
+      },
+      "result_ref": "workspace/orchestra/results/task-001.json"
+    },
+    {
+      "id": "task-002",
+      "name": "社交媒体 AI 热点侦察",
+      "agent": "scout-social",
+      "skill": "ai-scout-social",
+      "status": "completed",
+      "priority": 1,
+      "depends_on": [],
+      "created_at": "2026-03-06T06:10:04Z",
+      "started_at": "2026-03-06T06:14:59.833143Z",
+      "completed_at": "2026-03-06T06:16:15.839129Z",
+      "retries": 0,
+      "max_retries": 2,
+      "params": {
+        "focus": "AI agent, multi-agent systems"
+      },
+      "result_ref": "workspace/orchestra/results/task-002.json"
+    },
+    {
+      "id": "task-003",
+      "name": "OpenClaw 社区动态检查",
+      "agent": "scout-community",
+      "skill": "ai-scout-community",
+      "status": "completed",
+      "priority": 2,
+      "depends_on": [],
+      "created_at": "2026-03-06T06:10:04Z",
+      "started_at": "2026-03-06T06:16:15.839283Z",
+      "completed_at": "2026-03-06T06:18:17.796212Z",
+      "retries": 0,
+      "max_retries": 2,
+      "params": {},
+      "result_ref": "workspace/orchestra/results/task-003.json"
+    },
+    {
+      "id": "task-004",
+      "name": "趋势分析",
+      "agent": "analyst",
+      "skill": "ai-analyst",
+      "status": "completed",
+      "priority": 3,
+      "depends_on": [
+        "task-001",
+        "task-002",
+        "task-003"
+      ],
+      "created_at": "2026-03-06T06:10:04Z",
+      "started_at": "2026-03-06T06:18:17.796351Z",
+      "completed_at": "2026-03-06T06:19:43.141803Z",
+      "retries": 0,
+      "max_retries": 2,
+      "params": {},
+      "result_ref": "workspace/orchestra/results/task-004.json"
+    },
+    {
+      "id": "task-005",
+      "name": "整合报告生成",
+      "agent": "writer",
+      "skill": "ai-scout-report",
+      "status": "completed",
+      "priority": 4,
+      "depends_on": [
+        "task-004"
+      ],
+      "created_at": "2026-03-06T06:10:04Z",
+      "started_at": "2026-03-06T06:19:43.141933Z",
+      "completed_at": "2026-03-06T06:21:01.681561Z",
+      "retries": 0,
+      "max_retries": 2,
+      "params": {},
+      "result_ref": "workspace/memory/ai-scout/reports/2026-03-06.md"
+    }
+  ],
+  "metadata": {
+    "total_tasks": 5,
+    "completed_tasks": 5,
+    "failed_tasks": 0,
+    "current_segment": 2,
+    "estimated_total_minutes": 60
+  }
+}

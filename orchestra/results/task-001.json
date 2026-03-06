@@ -1,0 +1,41 @@
+{
+  "task_id": "task-001",
+  "name": "GitHub AI Agent 项目侦察",
+  "agent": "scout-github",
+  "status": "completed",
+  "started_at": "2026-03-06T06:10:00Z",
+  "completed_at": "2026-03-06T06:15:00Z",
+  "method": "web_search (fallback)",
+  "confidence": "60%",
+  "findings": {
+    "high_priority": [
+      {
+        "name": "langchain-ai/langchain",
+        "description": "Building applications with LLMs through composability",
+        "priority": "high",
+        "tags": ["framework", "agent", "llm"]
+      },
+      {
+        "name": "microsoft/autogen",
+        "description": "Enable next-gen LLM applications via multi-agent conversation",
+        "priority": "high",
+        "tags": ["multi-agent", "conversation", "framework"]
+      },
+      {
+        "name": "crewAIInc/crewAI",
+        "description": "Framework for orchestrating role-playing, autonomous AI agents",
+        "priority": "high",
+        "tags": ["multi-agent", "orchestration", "autonomous"]
+      }
+    ],
+    "medium_priority": [
+      {
+        "name": "openai/swarm",
+        "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration",
+        "priority": "medium",
+        "tags": ["multi-agent", "orchestration"]
+      }
+    ]
+  },
+  "notes": "Browser 工具不可用，降级到 WebSearch 方案，置信度较低"
+}

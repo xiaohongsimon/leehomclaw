@@ -1,0 +1,35 @@
+{
+  "task_id": "task-002",
+  "name": "社交媒体 AI 热点侦察",
+  "agent": "scout-social",
+  "status": "completed",
+  "started_at": "2026-03-06T06:15:00Z",
+  "completed_at": "2026-03-06T06:20:00Z",
+  "method": "web_search",
+  "confidence": "60%",
+  "findings": {
+    "trending_topics": [
+      {
+        "topic": "Multi-agent orchestration",
+        "mentions": "high",
+        "tags": ["multi-agent", "orchestration", "trending"]
+      },
+      {
+        "topic": "Autonomous coding agents",
+        "mentions": "high",
+        "tags": ["coding", "autonomous", "agent"]
+      },
+      {
+        "topic": "Agent frameworks comparison",
+        "mentions": "medium",
+        "tags": ["framework", "comparison", "langchain", "crewai"]
+      }
+    ],
+    "key_discussions": [
+      "CrewAI vs AutoGen for multi-agent systems",
+      "Claude MCP for agent tool use",
+      "OpenAI Swarm educational framework"
+    ]
+  },
+  "notes": "WebSearch 无法直接访问 X/Twitter，置信度较低"
+}
